@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input:hover {
+  cursor: not-allowed;
+}
+
+.firstButton {
+  margin-right: 20px;
+}
